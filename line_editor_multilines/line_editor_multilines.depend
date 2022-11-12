@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668280055 source:c:\line_editor_multilines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+	<windows.h>
+
