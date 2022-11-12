@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668196669 source:c:\lab4_9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<time.h>
+
