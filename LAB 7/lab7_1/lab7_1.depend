@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668279038 source:c:\lab7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dir.h>
+	<windows.h>
+	<dos.h>
+
+1668257076 c:\lab7_1\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
