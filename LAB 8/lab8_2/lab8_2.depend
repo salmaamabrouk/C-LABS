@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1668282820 source:c:\lab8_2\main.c
+	"head.h"
+	<stdio.h>
+	<stdlib.h>
+
+1668282712 c:\lab8_2\head.h
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+	<windows.h>
+	<time.h>
+
